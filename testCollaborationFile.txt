@@ -1,3 +1,7 @@
 This is first line added by Luoluo.
 This is second line modified, but I don't know what account I am in.
+
 Here is modified by Kilo, but I didn't get the latest modification by Luoluo. 
+
+Test conflict, this is the line changed by 1. Then I will push this file into the repository.
+

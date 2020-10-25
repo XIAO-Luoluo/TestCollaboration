@@ -5,3 +5,5 @@ Here is modified by Kilo, but I didn't get the latest modification by Luoluo.
 
 Test conflict, this is the line changed by 1. Then I will push this file into the repository.
 
+Here is the 3rd collaborator, access this file by forking the remote repository and clone it done. 
+Changed in the collaborator 3's local library.
